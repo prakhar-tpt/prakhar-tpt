@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+- 🔭 I’m currently working on Frontend Development
 <!--
 **prakhar-tpt/prakhar-tpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
